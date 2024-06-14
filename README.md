@@ -36,5 +36,6 @@ Hello, I'm name 👋
 
  I'm always open to connecting with like-minded professionals, innovators, and collaborators. Whether you share my passion for accessibility, healthcare, or technology, or if you're simply interested in exploring potential opportunities, please feel free to reach out. Let's make a positive impact together!
 
-✨ Check out my portfolio: https://portfolio-kathryn-yangs-projects.vercel.app/
+✨ Check out my [Portfolio](https://portfolio-kathryn-yangs-projects.vercel.app)
+
 📫 How to reach me: kathryn43621@gmail.com
